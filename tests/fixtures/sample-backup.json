@@ -1,0 +1,281 @@
+{
+  "app": "SkillScope",
+  "version": 1,
+  "note": "仅用于界面与导入验证的人工模拟数据，不代表真实玩家表现。",
+  "records": [
+    {
+      "id": "demo-v1-reaction",
+      "test": "reaction",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 80,
+      "time": 1792548000000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "中位反应",
+          240,
+          "ms"
+        ],
+        [
+          "平均反应",
+          245,
+          "ms"
+        ],
+        [
+          "最佳反应",
+          220,
+          "ms"
+        ],
+        [
+          "标准差",
+          16,
+          "ms"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-choice",
+      "test": "choice",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 70,
+      "time": 1792548040000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "平均正确反应",
+          480,
+          "ms"
+        ],
+        [
+          "正确率",
+          87.5,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-inhibit",
+      "test": "inhibit",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 83,
+      "time": 1792548080000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "分类正确率",
+          92,
+          "%"
+        ],
+        [
+          "平均命中反应",
+          350,
+          "ms"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-aim",
+      "test": "aim",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 68,
+      "time": 1792548120000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "命中",
+          29,
+          "次"
+        ],
+        [
+          "命中率",
+          94,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-switch",
+      "test": "switch",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 69,
+      "time": 1792548160000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "命中",
+          24,
+          "次"
+        ],
+        [
+          "命中率",
+          96,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-track",
+      "test": "track",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 72,
+      "time": 1792548200000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "圈内时间占比",
+          72,
+          "%"
+        ],
+        [
+          "平均偏离",
+          35,
+          "逻辑 px"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-cps",
+      "test": "cps",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 63,
+      "time": 1792548240000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "CPS",
+          6.3,
+          "次 / s"
+        ],
+        [
+          "总点击",
+          63,
+          "次"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-keys",
+      "test": "keys",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 74,
+      "time": 1792548280000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "每秒正确按键",
+          3.8,
+          "次 / s"
+        ],
+        [
+          "正确率",
+          97,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-search",
+      "test": "search",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 71,
+      "time": 1792548320000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "平均题目耗时",
+          2300,
+          "ms"
+        ],
+        [
+          "成功率",
+          100,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-memory",
+      "test": "memory",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 67,
+      "time": 1792548360000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "最长完整序列",
+          8,
+          "格"
+        ],
+        [
+          "序列正确率",
+          75,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-divided",
+      "test": "divided",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 82,
+      "time": 1792548400000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "中心命中",
+          27,
+          "次"
+        ],
+        [
+          "中心准确率",
+          93,
+          "%"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    },
+    {
+      "id": "demo-v1-rhythm",
+      "test": "rhythm",
+      "difficulty": "normal",
+      "device": "mouse-keyboard",
+      "score": 79,
+      "time": 1792548440000,
+      "name": "DEMO · 模拟数据",
+      "metrics": [
+        [
+          "含漏拍平均偏差",
+          35,
+          "ms"
+        ],
+        [
+          "命中",
+          23,
+          "拍"
+        ]
+      ],
+      "battery": "demo-session-v1"
+    }
+  ]
+}
